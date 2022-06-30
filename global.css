@@ -1,0 +1,13 @@
+button {
+    background-color: #990066;
+    border: none;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-size: 5vmin;
+    padding: 1vmin;
+    text-align: center; 
+}
+
+.index {
+    font-family: "Raleway", sans-serif;
+}
